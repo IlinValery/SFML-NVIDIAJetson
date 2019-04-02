@@ -1,0 +1,5 @@
+CMake*
+!CMakeLists.txt
+cmake*
+Make*
+test_sfml*
